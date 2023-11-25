@@ -1,4 +1,4 @@
-# Project SolarSTEM / SolarTechHub / EcoSolarSTEM
+# Project SolarSTEM
 
 ## Team Members:
 1. Name: Faizal Rizqi Kholily - 1313621029
