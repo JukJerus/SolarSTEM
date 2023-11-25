@@ -1,10 +1,10 @@
 # Project SolarSTEM / SolarTechHub / EcoSolarSTEM
 
 ## Team Members:
-1. Name: Faizal Rizki Kholily - 1313621029
+1. Name: Faizal Rizqi Kholily - 1313621029
    Role: Content Manager
 
-2. Name: Muhammad Ramadhan Putra - 1313621038
+2. Name: Muhammad Ramadhan Putra Pratama - 1313621038
    Role: Front End
 
 3. Name: Muhammad Shafwan Maulana -1313621022
