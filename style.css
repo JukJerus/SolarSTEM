@@ -1,5 +1,7 @@
 body {
     padding-top: 100px;
+    overflow-x: hidden;
+
   }
 
 .navbar-nav .nav-link.activenav {
