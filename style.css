@@ -18,8 +18,7 @@ body {
 
 #materi {
   background: linear-gradient(to bottom, #ffa505, #ffc905);
-  height: 770px;
-  width: 1440px;
+  width: 100%;
   margin-bottom: 30px;
   padding: 40px 90px;
 }
@@ -62,7 +61,7 @@ body {
   border-radius: 20px;
   border: 1px solid black;
   width: 191px;
-  height: 46px;
+  height: 30px;
   text-align: center;
 }
 .garKon{
