@@ -17,6 +17,61 @@ body {
   overflow-x: hidden;
 }
 
+section {
+  padding: 50px 0;
+  background: #fff;
+}
+
+.section-title {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.section-body {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.5px;
+  text-align: justify;
+}
+
+.section-label {
+  padding: 10px 20px;
+  color: #fff;
+  font-weight: 600;
+  margin: 15px 0;
+  cursor: initial;
+}
+
+.section-label:hover {
+  color: #fff !important;
+}
+
+.section-label.knowledge {
+  background-color: #245943;
+}
+
+.section-label.politics {
+  background: #2C3A2D;
+
+}
+
+/* Tentang Kami */
+
+section.tentangkami {
+  padding: 20px 0 10px;
+  background: #fff;
+}
+
+
+.tentangkami-img {
+  right: 0;
+}
+
 .navbar-nav .nav-link.activenav {
   color: #ffc905 !important;
   font-weight: bold;
