@@ -1,0 +1,16 @@
+/* intro */
+section.intro {
+    background: #fff;
+    padding: 20px 0;
+}
+
+/* intro end */
+
+/* engineering */
+.card-pembelajaran {
+    width: 90%;
+    height: 520px;
+    padding: 50px 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+}
