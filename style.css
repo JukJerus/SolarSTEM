@@ -110,6 +110,34 @@ section {
   background: transparent;
 }
 
+.card-pembelajaran {
+  width: 90%;
+  height: 520px;
+  padding: 50px 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.footer-eduvid-btn {
+  color: black;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border: 2px solid transparent;
+}
+
+.footer-eduvid-btn:hover {
+  color: white;
+  background: transparent;
+  border: 2px solid white;
+}
+
+.linebreak {
+  width: 100%;
+  background-color: black;
+  height: 20px;
+}
+
 iframe {
   border-radius: 10px;
 }
