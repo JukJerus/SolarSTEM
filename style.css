@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
 body {
   padding-top: 100px;
   overflow-x: hidden;
@@ -34,6 +48,7 @@ body {
   font-weight: bold;
   margin: -10px 10px;
 }
+
 .WatchVideo {
   border-radius: 10px;
   margin: 20px 10px;
@@ -45,6 +60,7 @@ body {
   border: 2px solid #ffa505;
   color: #ffa505;
 }
+
 .DescCard {
   /* border: 1px solid black; */
   font-weight: 500;
@@ -53,7 +69,8 @@ body {
   text-align: justify;
   font-size: 13px;
 }
-.selengkapnya{
+
+.selengkapnya {
   text-decoration: none;
   color: black;
   font-weight: bold;
@@ -64,16 +81,19 @@ body {
   height: 30px;
   text-align: center;
 }
-.garKon{
+
+.garKon {
   width: 60%;
   height: 1px;
   background-color: black;
 }
-.descBelow{
+
+.descBelow {
   color: black;
   font-weight: bolder;
 }
-#palingBawah{
+
+#palingBawah {
   font-size: 15px;
   font-weight: 500;
   color: white;
